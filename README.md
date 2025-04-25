@@ -1,7 +1,7 @@
-# 🇰🇪 Kenyan E-commerce Database Design
+# E-commerce Database Design
 
-A comprehensive MySQL database schema tailored for a Kenyan e-commerce platform.  
-Built as a peer group project, this design reflects real-world products, local brands, and pricing in KES.
+A comprehensive MySQL database schema tailored for an e-commerce platform.  
+Built as a peer group project, this design reflects real-world products, local brands, and pricing.
 
 ---
 
